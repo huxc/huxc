@@ -1,6 +1,6 @@
 <div align="center">
   <div>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=D556F7&width=435&lines=Hi+everyone+%F0%9F%91%8B+Welcome+to+my+GitHub" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=D556F7&width=485&lines=Hi+everyone+%F0%9F%91%8B+Welcome+to+my+GitHub" alt="Typing SVG" />
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
